@@ -567,6 +567,6 @@ After a pull is submitted, it needs to get to review. If you have commit permiss
 
 ### Reviewing Pull Requests
 
-So, you've been assigned a pull to review. Check out our [pull request review guidelines](https://www.elastic.co/guide/en/kibana/master/pr-review.html) for our general philosophy for pull request reviewers.
+So, you've been assigned a pull to review. Check out our [pull request review guidelines](https://www.elastic.co/guide/en/kibana/master/pr-review.html) for our general philosophy for pull request reviewers
 
 Thank you so much for reading our guidelines! :tada:
